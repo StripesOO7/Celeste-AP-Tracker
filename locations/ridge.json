@@ -15,8 +15,7 @@
                     }
                 ],
                 "visibility_rules": 
-                [
-                ],
+                [""],
                 "access_rules": 
                 [
                     "$A4"
@@ -27,88 +26,72 @@
                         "name": "Strawberry 1",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     },
                     {
                         "name": "Strawberry 2",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     },
                     {
                         "name": "Strawberry 3",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     },
                     {
                         "name": "Strawberry 4",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     },
                     {
                         "name": "Strawberry 5",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     },
                     {
                         "name": "Strawberry 6",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     },
                     {
                         "name": "Strawberry 7",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     },
                     {
                         "name": "Strawberry 8",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     },
                     {
@@ -117,11 +100,9 @@
                         "chest_opened_img": "images/items/cassette2.png",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     }
                 ]
@@ -137,8 +118,7 @@
                     }
                 ],
                 "visibility_rules": 
-                [
-                ],
+                [""],
                 "access_rules": 
                 [
                     "$A4"
@@ -149,99 +129,81 @@
                         "name": "Strawberry 9",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     },
                     {
                         "name": "Strawberry 10",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     },
                     {
                         "name": "Strawberry 11",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     },
                     {
                         "name": "Strawberry 12",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     },
                     {
                         "name": "Strawberry 13",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     },
                     {
                         "name": "Strawberry 14",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     },
                     {
                         "name": "Strawberry 15",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     },
                     {
                         "name": "Strawberry 16",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     },
                     {
                         "name": "Strawberry 17",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     },
                     {
@@ -250,11 +212,9 @@
                         "chest_opened_img": "images/items/red_heart2.png",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     }
                 ]
@@ -270,8 +230,7 @@
                     }
                 ],
                 "visibility_rules": 
-                [
-                ],
+                [""],
                 "access_rules": 
                 [
                     "$A4"
@@ -282,77 +241,63 @@
                         "name": "Strawberry 18",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     },
                     {
                         "name": "Strawberry 19",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     },
                     {
                         "name": "Strawberry 20",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     },
                     {
                         "name": "Strawberry 21",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     },
                     {
                         "name": "Strawberry 22",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     },
                     {
                         "name": "Strawberry 23",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     },
                     {
                         "name": "Strawberry 24",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     } 
                 ]
@@ -368,8 +313,7 @@
                     }
                 ],
                 "visibility_rules": 
-                [
-                ],
+                [""],
                 "access_rules": 
                 [
                     "$A4"
@@ -380,55 +324,45 @@
                         "name": "Strawberry 25",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     },
                     {
                         "name": "Strawberry 26",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     },
                     {
                         "name": "Strawberry 27",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     },
                     {
                         "name": "Strawberry 28",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     },
                     {
                         "name": "Strawberry 29",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     },
                     {
@@ -437,11 +371,9 @@
                         "chest_opened_img": "images/items/complete2.png",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     } 
                 ]
@@ -457,8 +389,7 @@
                     }
                 ],
                 "visibility_rules": 
-                [
-                ],
+                [""],
                 "access_rules": 
                 [
                     "cassette4"
@@ -471,11 +402,9 @@
                         "chest_opened_img": "images/items/blue_heart2.png",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     },
                     {
@@ -484,11 +413,9 @@
                         "chest_opened_img": "images/items/complete2.png",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     }
                 ]
@@ -504,8 +431,7 @@
                     }
                 ],
                 "visibility_rules": 
-                [
-                ],
+                [""],
                 "access_rules": 
                 [
                     "$C4"
@@ -518,11 +444,9 @@
                         "chest_opened_img": "images/items/yellow_heart2.png",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     },
                     {
@@ -531,11 +455,9 @@
                         "chest_opened_img": "images/items/complete2.png",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     }
                 ]

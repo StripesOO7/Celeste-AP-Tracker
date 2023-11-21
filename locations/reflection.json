@@ -13,8 +13,7 @@
                     }
                 ],
                 "visibility_rules": 
-                [
-                ],
+                [""],
                 "access_rules": 
                 [
                     "$A6"
@@ -27,11 +26,9 @@
                         "chest_opened_img": "images/items/red_heart2.png",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     },
                     {
@@ -40,11 +37,9 @@
                         "chest_opened_img": "images/items/cassette2.png",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     },
                     {
@@ -53,11 +48,9 @@
                         "chest_opened_img": "images/items/complete2.png",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     }
                 ]
@@ -73,8 +66,7 @@
                     }
                 ],
                 "visibility_rules": 
-                [
-                ],
+                [""],
                 "access_rules": 
                 [
                     "cassette6"
@@ -87,11 +79,9 @@
                         "chest_opened_img": "images/items/blue_heart2.png",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     },
                     {
@@ -100,11 +90,9 @@
                         "chest_opened_img": "images/items/complete2.png",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     }
                 ]
@@ -120,8 +108,7 @@
                     }
                 ],
                 "visibility_rules": 
-                [
-                ],
+                [""],
                 "access_rules": 
                 [
                     "$C6"
@@ -134,11 +121,9 @@
                         "chest_opened_img": "images/items/yellow_heart2.png",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     },
                     {
@@ -147,11 +132,9 @@
                         "chest_opened_img": "images/items/complete2.png",
                         "clear_as_group": true,
                         "visibility_rules": 
-                        [
-                        ],
+                        [""],
                         "access_rules": 
-                        [
-                        ],
+                        [""],
                         "item_count": 1
                     }
                 ]
